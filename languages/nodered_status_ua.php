@@ -1,0 +1,2 @@
+<?php
+include_once(dirname(__FILE__) . '/nodered_status_uk.php');
